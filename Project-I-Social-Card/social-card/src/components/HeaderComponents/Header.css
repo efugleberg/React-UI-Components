@@ -1,1 +1,33 @@
 /* All styles for your header Components live here */
+
+.headerContent {
+    display: flex;
+    margin: auto;
+    width: 700px;
+    /* border: 1px solid black; */
+}
+
+.lambda-headerTag {
+    width: 80%;
+}
+.header {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: baseline;
+    /* justify-content: space-around; */
+    width: 80%;
+    /* border: 1px solid green;    */
+}
+
+h1 {
+    padding-right: 3%;
+    font-size: 1.6rem;
+}
+h3 {
+    color: grey;
+    font-size: .9rem;
+}
+.lambda {
+    height: 50%;
+    margin-right: 10px;
+}

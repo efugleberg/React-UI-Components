@@ -1,1 +1,23 @@
 /* All styles for your Card Components live here */
+
+
+.card-container {
+    /* display: flex; */
+    margin: auto;
+    width: 700px;
+    /* border: 1px solid black; */
+}
+
+.react-logo, .card-content {
+    width: 550px;
+    margin-left: 15%;
+}
+
+h2 {
+    font-size: 1.4rem;
+}
+
+a {
+    text-decoration: none;
+    color: grey;
+}
